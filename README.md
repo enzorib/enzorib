@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Enzo Ribeiro
+# 🧑🏻‍💻 Enzo Ribeiro
 
 **`Desenvolvedor FullStack`**
 
@@ -11,12 +11,16 @@ Estou em constante aprendizado, buscando evoluir tanto na parte técnica quanto 
 
 💬 WhatsApp: +55 11 954782963
 
----
+
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:enzorib@hotmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ribeiro/)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_enzoo_r)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/5511954782963)
+
+---
+
+
+
 
 
