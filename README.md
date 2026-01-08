@@ -20,6 +20,9 @@ Estou em constante aprendizado, buscando evoluir tanto na parte técnica quanto 
 
 ---
 
+ ### 🤖 Linguagens e Tecnologias
+
+ 
 
 
 
